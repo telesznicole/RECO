@@ -50,12 +50,51 @@ Minwei Wu, ITGM MFA - Experience Team
 1. Figma Make AI
 [Insert description of how Figma Make AI was used, model info, etc.]
 
+-  (gpt5) Prompt generation: 
+https://chatgpt.com/share/68d9581e-a004-8002-895a-1612555cf0ff
+
+- (gpt5) Help engineering prompts for Figma Make:  
+  https://chatgpt.com/share/68d9586b-9758-8002-a7f9-59d80bcdc8f5  
+
 2. In-App AI (API Calls)
 - Chatbot: Powered by OpenAI API to provide real-time emotional support.
-- Recovery Insights: Calls OpenAI API + external research API to generate tailored scientific explanations.
+
+
+
+- Recovery Insights: Calls OpenAI API + Entrez Pubmed external research API to generate tailored scientific explanations.
+
+PROMPT: "You are delivering interesting facts to an ACL rehabilitation patient to give them motivation to stay consistent and help them psychologically. 
+The objective is to motivate them through giving them useful knowledge. Summarize the following PubMed abstract into a quick recovery fact (1-2 sentences). 
+Focus only on the stage of recovery they are in: MID."
 
 3. Production AI Uses
-[Insert tools used for research, debugging, code generation, brainstorming, etc.]
+
+
+- (gpt5) Helped convert and understand React from C#. Utilized ChatGPT‑4o-mini to summarize abstracts acquired through the PubMed API:  
+  https://chatgpt.com/share/68d8e60f-b6bc-8000-b7e3-7b651c4f5765  
+
+- (gpt5) Help doing ACL research:  
+  https://chatgpt.com/share/68d9596d-7208-8002-add5-df133285d027  
+
+- (gpt5) Help refine UI elements:  
+  https://chatgpt.com/share/68d9586b-9758-8002-a7f9-59d80bcdc8f5  
+
+- (gpt5) Help engineering prompts for Figma Make:  
+  https://chatgpt.com/share/68d93fc5-b1e8-8011-8a2a-2e445976688b  
+
+- (gpt5) Help updating logic of code for new capabilities:  
+  https://chatgpt.com/share/68d94035-61e4-8011-8b66-25d0858e3cc6  
+
+- (gpt5) Help creating base code for API key AI calls:  
+  https://chatgpt.com/share/68d940b0-9c08-8011-aa55-d334ec262b7f  
+
+- (gpt-4o-mini) Prompts open chat with prompt detailing persona, goals, boundaries, etc using API Key  
+
+- (gpt5) Help writing thorough README file:  
+  https://chatgpt.com/share/68d95312-fb6c-8011-8f90-58f6260660ba  
+
+- (figma make) Interactive prototype / project link:  
+  https://www.figma.com/make/Ef0dOAsqca8bhHLYSGrIjh/RECO?node-id=0-1&t=bwUugI7nj0V5cIma-1
 
 
 ## 🙏 Acknowledgments  
