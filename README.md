@@ -32,10 +32,10 @@ A virtual recovery companion designed to support individuals recovering from ACL
 Nicole Telesz, ITGM MFA - Tech Anchor
 Joshua Moore, Game - Team Captain
 Yuchen Zhang, ITGM - Experience Team
-Riley Chen, ITGM - Experience Team
+Riley Chen, ITGM MFA - Experience Team
 Yi He, ITGM - Experience Team
 Yiming Han, ITGM - Experience Team
-Minwei Wu, ITGM - Experience Team
+Minwei Wu, ITGM MFA - Experience Team
 
 ## 🤖 AI Use Documentation
 1. Figma Make AI
