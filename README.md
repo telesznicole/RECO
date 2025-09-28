@@ -7,6 +7,7 @@ A virtual recovery companion designed to support individuals recovering from ACL
 
 ## 🚀 Live Demo  
 👉 [Live Web-Based Application](https://knob-dwell-34466238.figma.site/)
+👉 [Figma Community Link](https://www.figma.com/community/file/1553970523770663652)
 
 *(The GitHub repo is for submission purposes only — please use the live site for the actual experience.)*  
 
