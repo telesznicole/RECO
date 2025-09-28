@@ -7,6 +7,7 @@ A virtual recovery companion designed to support individuals recovering from ACL
 
 ## 🚀 Live Demo  
 👉 [Live Web-Based Application](https://knob-dwell-34466238.figma.site/)
+
 👉 [Figma Community Link](https://www.figma.com/community/file/1553970523770663652)
 
 *(The GitHub repo is for submission purposes only — please use the live site for the actual experience.)*  
@@ -30,12 +31,19 @@ A virtual recovery companion designed to support individuals recovering from ACL
 ---
 
 ## 👩‍💻 Team
+
 Nicole Telesz, ITGM MFA - Tech Anchor
+
 Joshua Moore, Game BFA - Team Captain
+
 Yuchen Zhang, ITGM MFA - Experience Team
+
 Riley Chen, ITGM MFA - Experience Team
+
 Yi He, ITGM MA - Experience Team
+
 Yiming Han, ITGM MFA - Experience Team
+
 Minwei Wu, ITGM MFA - Experience Team
 
 ## 🤖 AI Use Documentation
