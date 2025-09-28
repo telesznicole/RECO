@@ -30,11 +30,11 @@ A virtual recovery companion designed to support individuals recovering from ACL
 
 ## 👩‍💻 Team
 Nicole Telesz, ITGM MFA - Tech Anchor
-Joshua Moore, Game - Team Captain
-Yuchen Zhang, ITGM - Experience Team
+Joshua Moore, Game BFA - Team Captain
+Yuchen Zhang, ITGM MFA - Experience Team
 Riley Chen, ITGM MFA - Experience Team
-Yi He, ITGM - Experience Team
-Yiming Han, ITGM - Experience Team
+Yi He, ITGM MA - Experience Team
+Yiming Han, ITGM MFA - Experience Team
 Minwei Wu, ITGM MFA - Experience Team
 
 ## 🤖 AI Use Documentation
